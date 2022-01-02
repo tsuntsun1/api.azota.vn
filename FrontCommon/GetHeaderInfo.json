@@ -1,0 +1,40 @@
+{
+	"version": "2021_02_25",
+	"success": 1,
+	"code": 200,
+	"message": "successful",
+	"data": {
+		"totalAzo": 0,
+		"plusAzo": 0,
+		"plusNewPlus": 0,
+		"unreadNotification": 0,
+		"globalNoticeObjs": [],
+		"commonNoticeObjs": []
+	}
+}
+
+{
+	"version": "2021_02_25",
+	"success": 1,
+	"code": 200,
+	"message": "successful",
+	"data": {
+		"totalAzo": 0,
+		"plusAzo": 0,
+		"plusNewPlus": 0,
+		"unreadNotification": 0,
+		"globalNoticeObjs": [{
+			"id": 1,
+			"mainTitle": "Tính năng mới",
+			"title": "Đặt giá bán đề thi",
+			"description": "Thầy cô có thể vào phần cấu hình đề thi để đặt giá bán cho đề thi",
+			"link": null,
+			"forRole": 0,
+			"createdAt": "2021-07-01T04:55:58",
+			"updatedAt": null,
+			"deletedAt": null,
+			"tenantId": null
+		}],
+		"commonNoticeObjs": []
+	}
+}
