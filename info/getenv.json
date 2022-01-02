@@ -1,0 +1,16 @@
+{
+	"classliveUrl": "https://azota889.github.io/storage_public/mnote/mnote_100.html?ver=158",
+	"lastCdnDate": "2021-09-29",
+	"docView": "MICROSOFT",
+	"limitVideoSize": "520000000",
+	"enableDoCloudflare": "1",
+	"enableNextCloudflare": "1",
+	"aztStorageTime": "300",
+	"aztUrlGetFromCache": "[\"Usersetting/GetMyDomain\",\"FrontExam/GetHistoryObjs?HashId=\",\"FrontPageStudent/GetExamObjsInDashboard\",\"FrontPageStudent/GetExamObjsByClassId?classId=\",\"FrontPageStudent/GetClassroomInHomeworkObjsInDashboard\",\"FrontPageStudent/GetHomeworkObjsInDashboardByClassId?classId=\",\"FrontStudent/GetHomeworkObjsInDashboard\",\"FrontStudent/GetHomeworkObjsInDashboardByClassId?classId\",\"FrontStudent/GetExamObjsInDashboard\",\"FrontExamResult/GetObj?HashId=\",\"FrontExamResult/GetExamWithExamAnswer?HashId=\",\"FrontCommon/GetHeaderInfo?Role=\",\"FrontCommon/MarkNotificationAsRead?Role=\",\"FrontCommon/MarkPlusPaymentAsRead\",\"Auth/GetSchoolInfo\",\"TeacherQuestion/GetObjsInDashboard?page=\",\"StudentQuestion/GetObjs?page=\"]",
+	"lastVersion": "2021-10-27 11:30",
+	"enableRegisterTeacherCaptcha": "1",
+	"enableRegisterStudentCaptcha": "1",
+	"saveJsErrorLogs": "0",
+	"enableTrackMonitorForTeacherIdOrPhone": ",1,",
+	"server_env": "env"
+}
