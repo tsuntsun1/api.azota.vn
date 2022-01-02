@@ -1,3 +1,3 @@
-#api.azota.vn/api/SchoolInfo
+# api.azota.vn/api/SchoolInfo
 - Get user's school
 - Get user's province
