@@ -1,0 +1,26 @@
+{
+	"version": "2021_02_25",
+	"success": 1,
+	"code": 200,
+	"message": "successful",
+	"data": {
+		"examObj": {
+			"id": "examid",
+			"examType": 0,
+			"hashId": "examcode",
+			"name": "abcxyz",
+			"minutes": 45,
+			"price": 0.0,
+			"startTime": "2021-10-28T14:55:00",
+			"endTime": "2021-10-28T15:50:00",
+			"whenShowResult": 0,
+			"whenShowAnswer": 1,
+			"countQuestion": 25,
+			"isPublished": 1,
+			"tenantId": 12345678,
+			"autoMonitor": 1
+		},
+		"historyObjs": [],
+		"totalAttended": 100
+	}
+}
