@@ -1,0 +1,322 @@
+{
+	"version": "2021_02_25",
+	"success": 1,
+	"code": 200,
+	"message": "successful",
+	"data": [{
+		"id": 1,
+		"name": "Hà Nội",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 2,
+		"name": "TP HCM",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 3,
+		"name": "Hải Phòng",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 4,
+		"name": "Bắc Giang",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 5,
+		"name": "Bắc Kạn",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 6,
+		"name": "Bắc Ninh",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 7,
+		"name": "Cao Bằng",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 8,
+		"name": "Điện Biên",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 9,
+		"name": "Hà Giang",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 10,
+		"name": "Hà Nam",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 11,
+		"name": "Hải Dương",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 12,
+		"name": "Hòa Bình",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 13,
+		"name": "Hưng Yên",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 14,
+		"name": "Lai Châu",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 15,
+		"name": "Lạng Sơn",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 16,
+		"name": "Lào Cai",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 17,
+		"name": "Nam Định",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 18,
+		"name": "Ninh Bình",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 19,
+		"name": "Phú Thọ",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 20,
+		"name": "Quảng Ninh",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 21,
+		"name": "Sơn La",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 22,
+		"name": "Thái Bình",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 23,
+		"name": "Thái Nguyên",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 24,
+		"name": "Thanh Hóa",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 25,
+		"name": "Tuyên Quang",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 26,
+		"name": "Vĩnh Phúc",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 27,
+		"name": "Yên Bái",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 28,
+		"name": "Đà Nẵng",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 29,
+		"name": "Bình Định",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 30,
+		"name": "Bình Phước",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 31,
+		"name": "Bình Thuận",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 32,
+		"name": "Đắk Lắk",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 33,
+		"name": "Đắk Nông",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 34,
+		"name": "Gia Lai",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 35,
+		"name": "Hà Tĩnh",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 36,
+		"name": "Khánh Hòa",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 37,
+		"name": "Kon Tum",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 38,
+		"name": "Lâm Đồng",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 39,
+		"name": "Nghệ An",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 40,
+		"name": "Ninh Thuận",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 41,
+		"name": "Phú Yên",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 42,
+		"name": "Quảng Bình",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 43,
+		"name": "Quảng Nam",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 44,
+		"name": "Quảng Ngãi",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 45,
+		"name": "Quảng Trị",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 46,
+		"name": "Thừa Thiên Huế",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 47,
+		"name": "Cần Thơ",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 48,
+		"name": "An Giang",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 49,
+		"name": "Bà Rịa - Vũng Tàu",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 50,
+		"name": "Bạc Liêu",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 51,
+		"name": "Bến Tre",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 52,
+		"name": "Bình Dương",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 53,
+		"name": "Cà Mau",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 54,
+		"name": "Đồng Nai",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 55,
+		"name": "Đồng Tháp",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 56,
+		"name": "Hậu Giang",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 57,
+		"name": "Kiên Giang",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 58,
+		"name": "Long An",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 59,
+		"name": "Sóc Trăng",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 60,
+		"name": "Tây Ninh",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 61,
+		"name": "Tiền Giang",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 62,
+		"name": "Trà Vinh",
+		"code": null,
+		"districts": []
+	}, {
+		"id": 63,
+		"name": "Vĩnh Long",
+		"code": null,
+		"districts": []
+	}]
+}

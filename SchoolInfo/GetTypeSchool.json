@@ -1,0 +1,19 @@
+{
+	"version": "2021_02_25",
+	"success": 1,
+	"code": 200,
+	"message": "successful",
+	"data": [{
+		"id": 1,
+		"name": "Tiểu học",
+		"schools": []
+	}, {
+		"id": 2,
+		"name": "Trung học cơ sở",
+		"schools": []
+	}, {
+		"id": 3,
+		"name": "Trung học phổ thông",
+		"schools": []
+	}]
+}
