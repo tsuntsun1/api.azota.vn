@@ -1,0 +1,12 @@
+{
+	"version": "2021_02_25",
+	"success": 1,
+	"code": 200,
+	"message": "successful",
+	"data": {
+		"categoryObjs": [],
+		"examObjs": [],
+		"total": 0,
+		"totalExam": 0
+	}
+}
