@@ -1,0 +1,31 @@
+{
+	"version": "2021_02_25",
+	"success": 1,
+	"code": 200,
+	"message": "successful",
+	"data": {
+		"allPermissionObjs": [{
+			"id": 69,
+			"name": "modified_homework_exam",
+			"code": null,
+			"description": "Chỉnh sửa",
+			"typeCode": "HOMEWORK_EXAM",
+			"tenantId": 69,
+			"createdAt": "2021-09-24T09:13:14",
+			"updatedAt": null,
+			"deletedAt": null,
+			"teamSharePermissions": []
+		}, {
+			"id": 69,
+			"name": "mark_homework_exam",
+			"code": null,
+			"description": "Chấm bài",
+			"typeCode": "HOMEWORK_EXAM",
+			"tenantId": 69,
+			"createdAt": "2021-09-24T09:13:14",
+			"updatedAt": null,
+			"deletedAt": null,
+			"teamSharePermissions": []
+		}]
+	}
+}
