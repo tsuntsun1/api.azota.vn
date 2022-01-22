@@ -1,0 +1,57 @@
+{
+	"version": "2021_02_25",
+	"success": 1,
+	"code": 200,
+	"message": "successful",
+	"data": {
+		"classObjs": [{
+			"permissionObj": {
+				"full_permission": 1,
+				"give_homework_exam": 1,
+				"mark_point": 1,
+				"students_manager": 1,
+				"modified_homework_exam": 1,
+				"mark_homework_exam": 1,
+				"read_permission": 1
+			},
+			"id": "id",
+			"hashId": "hashid",
+			"name": "name",
+			"countStudents": 69,
+			"status": true,
+			"createdAt": "date",
+			"updatedAt": "date",
+			"homeworks": [{
+				"className": "name",
+				"id": "id",
+				"hashId": "hashid",
+				"name": "name",
+				"classroomId": 123456,
+				"content": null,
+				"deadline": null,
+				"deadlineEnable": 0,
+				"type": null,
+				"count": 0,
+				"files": null,
+				"testbankExams": null,
+				"mustVerified": 1,
+				"dontShowMark": 0,
+				"whenShowAnswer": 1,
+				"isPublished": 1,
+				"trackHomeworkDatas": null,
+				"createdAt": "date",
+				"updatedAt": "date",
+				"deletedAt": null,
+				"notInTrash": null,
+				"tenantId": 12345678,
+				"classroom": null,
+				"answers": []
+			}],
+			"totalHomework": 69,
+			"tenantId": 12345678
+		}],
+		"totalObjs": 69,
+		"totalShareClass": 0,
+		"ownClassCount": 69
+	}
+}
